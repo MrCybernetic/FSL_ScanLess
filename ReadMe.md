@@ -29,3 +29,12 @@ SCANLESS est un projet open source non supporté par Abbott. C'est un projet DIY
 Feel free to join the chat / N'hésite pas à venir discuter : 
 
 [![Join the chat at https://gitter.im/FSL_ScanLess/community](https://badges.gitter.im/FSL_ScanLess/community.svg)](https://gitter.im/FSL_ScanLess/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# Avancement / Project Progress
+
++ BM019 tested :heavy_check_mark: 
++ Electronics : Schematics and PCB reviewed  :heavy_check_mark: 
++ BLE to test :factory:
++ XDrip to test :factory:
+
+![PCB](https://github.com/MrCybernetic/FSL_ScanLess/blob/master/SCANLESS/img/Annotation%202020-05-31%20202108.png?raw=true)
