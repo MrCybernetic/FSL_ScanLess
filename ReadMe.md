@@ -32,9 +32,11 @@ Feel free to join the chat / N'hésite pas à venir discuter :
 
 # Avancement / Project Progress
 
-+ BM019 tested :heavy_check_mark: 
-+ Electronics : Schematics and PCB reviewed  :heavy_check_mark: 
-+ BLE to test :factory:
++ BM019 tested / Testé le fonctionnement du BM019 :heavy_check_mark: 
++ Electronics : Schematics and PCB reviewed / Vérification des schémas électronique :heavy_check_mark: 
++ BLE to test / Tester le BLE :factory:
++ Arduino to test / Tester le code Arduino ([Keencave Github / LBridge Arduino Code](https://github.com/keencave/LBridge)) :factory:
 + XDrip to test :factory:
++ Design 3D printable enclosure :factory:
 
 ![PCB](https://github.com/MrCybernetic/FSL_ScanLess/blob/master/SCANLESS/img/Annotation%202020-05-31%20202108.png?raw=true)
