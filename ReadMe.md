@@ -52,3 +52,5 @@ SCANLESS est un projet open source non supporté par Abbott. C'est un projet DIY
 + Concevoir une boîte imprimable (3D) :factory:
 
 ![PCB](https://github.com/MrCybernetic/FSL_ScanLess/blob/master/SCANLESS/img/Annotation%202020-05-31%20202108.png?raw=true)
+
+*Actual state / état actuel*
