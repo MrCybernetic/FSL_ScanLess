@@ -3,9 +3,7 @@ Feel free to join the chat / N'hésite pas à venir discuter :
 [![Join the chat at https://gitter.im/FSL_ScanLess/community](https://badges.gitter.im/FSL_ScanLess/community.svg)](https://gitter.im/FSL_ScanLess/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # SCANLESS
-![XDrip Montre](https://github.com/MrCybernetic/FSL_ScanLess/blob/master/img/montre.png?raw=true) 
-
-*(for illustration purposes only -> source: "XDrip" on Google Images)*
+![XDrip Principe](https://github.com/MrCybernetic/FSL_ScanLess/blob/master/img/scanless_principe.png?raw=true) 
 
 ![EN Flag](https://github.com/MrCybernetic/FSL_ScanLess/blob/master/img/en.png?raw=true) EN
 
