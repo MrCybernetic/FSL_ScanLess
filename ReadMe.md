@@ -23,10 +23,10 @@ SCANLESS is an open source Project NOT maintained by Abbott. It is a experimenta
 
 + BM019 tested  :heavy_check_mark: 
 + Electronics : Schematics and PCB reviewed :heavy_check_mark: 
-+ BLE to test :factory:
-+ Arduino to test ([Keencave Github / LBridge Arduino Code](https://github.com/keencave/LBridge)) :factory:
-+ XDrip to test :factory:
-+ Design 3D printable enclosure :factory:
++ BLE to test :heavy_check_mark:
++ Arduino to test ([Keencave Github / LBridge Arduino Code](https://github.com/keencave/LBridge)) :heavy_check_mark:
++ XDrip to test :heavy_check_mark:
++ Design 3D printable enclosure :heavy_check_mark:
 
 --- 
 
@@ -44,12 +44,12 @@ SCANLESS est un projet open source non supporté par Abbott. C'est un projet DIY
 
 # Avancement
 
-+ Tester le fonctionnement du BM019 :heavy_check_mark: 
++ Tester le fonctionnement du BM019 :heavy_check_mark:
 + Vérification des schémas électronique :heavy_check_mark: 
-+ Tester le BLE :factory:
-+ Tester le code Arduino ([Keencave Github / LBridge Arduino Code](https://github.com/keencave/LBridge)) :factory:
-+ Tester l'appli XDrip :factory:
-+ Concevoir une boîte imprimable (3D) :factory:
++ Tester le BLE :heavy_check_mark:
++ Tester le code Arduino ([Keencave Github / LBridge Arduino Code](https://github.com/keencave/LBridge)) :heavy_check_mark:
++ Tester l'appli XDrip :heavy_check_mark:
++ Concevoir une coque imprimable (3D) :heavy_check_mark:
 
 ![PCB](https://github.com/MrCybernetic/FSL_ScanLess/blob/master/SCANLESS/img/Annotation%202020-05-31%20202108.png?raw=true)
 
