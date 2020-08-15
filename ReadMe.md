@@ -12,10 +12,10 @@ Feel free to join the chat / N'hésite pas à venir discuter :
 Designing an open source PCB to turn your Freestyle Libre into a wireless CGM (continuous glucose monitor) based on LimiTTer ([Limitter Original Project](https://github.com/JoernL/LimiTTer)). Hardware inside :
 + BM019 NFC tag reader ([BM019 from Solutions Cubed](http://www.solutions-cubed.com/bm019/), see BM019 folder to see documentation and schematics)
 + HM17 BLE Module
-+ Arduino Pro Mini
++ Atmega328P (Arduino Pro Mini compatible)
 + USB to Serial Converter to program the Arduino (CP2104)
 + LiPo Charger (MCP73831)
-+ LiPo Battery (3.7V, ???mAh not defined yet)
++ LiPo Battery (3.7V)
 
 SCANLESS is an open source Project NOT maintained by Abbott. It is a experimental DIY project. You can contribute in this project as you want.
 
@@ -35,7 +35,7 @@ SCANLESS is an open source Project NOT maintained by Abbott. It is a experimenta
 Le but de ce projet est de concevoir un PCB en open source pour suivre votre glycémie via votre smartphone. Ce projet est basé sur celui-ci : LimiTTer ([JoernL Github / Projet Original Limitter](https://github.com/JoernL/LimiTTer)).
 + Lecteur de tag NFC BM019 ([BM019 de Solutions Cubed](http://www.solutions-cubed.com/bm019/), la doc du BM019 et son schéma est dans le dossier BM019)
 + module BLE HM17
-+ Arduino Pro Mini
++ Atmega328P (Compatible avec Arduino Pro Mini bootloader)
 + Convertisseur USB vers Série pour pouvoir programmer l'Arduino (CP2104)
 + circuit intégré pour charger la LiPo (MCP73831)
 + une batterie LiPo (3.7V, ???mAh pas encore définie)
@@ -51,7 +51,7 @@ SCANLESS est un projet open source non supporté par Abbott. C'est un projet DIY
 + Tester l'appli XDrip :heavy_check_mark:
 + Concevoir une coque imprimable (3D) :heavy_check_mark:
 
-![PCB](https://github.com/MrCybernetic/FSL_ScanLess/blob/master/SCANLESS/img/Annotation%202020-05-31%20202108.png?raw=true)
+![PCB](https://github.com/MrCybernetic/FSL_ScanLess/blob/master/SCANLESS/img/complete.jpg?raw=true)
 
 *Actual state / état actuel*
 
